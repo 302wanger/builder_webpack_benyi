@@ -1,4 +1,4 @@
 /node_modules
-/logs
+/coverage
 /test/smoke/template/dist
 /test/smoke/template/src/search/images/SourceHanSerifSC-Heavy.otf
